@@ -80,8 +80,7 @@
             </resource>
         </resources>
     <!-- Added by Kiran - End -->
-  </dependencies>
-  <build>
+    <build>
     <plugins>
       <plugin>
         <!-- Build an executable JAR -->
